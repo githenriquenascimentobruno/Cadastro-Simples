@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/02 15:55:51.000.295,=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/05 11:06:15.000.813,=C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/05 11:07:41.000.283,C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Desenvolvimento\LojaDoBe\uPrincipal.pas</Transaction>
+    <Transaction>2022/09/05 11:07:41.000.283,C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Desenvolvimento\LojaDoBe\uPrincipal.dfm</Transaction>
+    <Transaction>2022/09/05 11:07:47.000.071,C:\Users\henri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Desenvolvimento\LojaDoBe\LojaDoBe.dproj</Transaction>
+    <Transaction>2022/09/05 11:28:01.000.566,=C:\Desenvolvimento\LojaDoBe\Unit1.pas</Transaction>
+    <Transaction>2022/09/05 11:28:37.000.369,C:\Desenvolvimento\LojaDoBe\Unit1.dfm=C:\Desenvolvimento\LojaDoBe\uCadClientes.dfm</Transaction>
+    <Transaction>2022/09/05 11:28:37.000.369,C:\Desenvolvimento\LojaDoBe\Unit1.pas=C:\Desenvolvimento\LojaDoBe\uCadClientes.pas</Transaction>
+    <Transaction>2022/09/05 11:29:14.000.422,=C:\Desenvolvimento\LojaDoBe\Unit2.pas</Transaction>
+    <Transaction>2022/09/05 11:29:50.000.817,C:\Desenvolvimento\LojaDoBe\Unit2.pas=C:\Desenvolvimento\LojaDoBe\uCadProdutos.pas</Transaction>
+    <Transaction>2022/09/05 11:29:50.000.817,C:\Desenvolvimento\LojaDoBe\Unit2.dfm=C:\Desenvolvimento\LojaDoBe\uCadProdutos.dfm</Transaction>
+    <Transaction>2022/09/05 11:30:06.000.317,=C:\Desenvolvimento\LojaDoBe\Unit3.pas</Transaction>
+    <Transaction>2022/09/05 11:30:54.000.358,C:\Desenvolvimento\LojaDoBe\Unit3.pas=C:\Desenvolvimento\LojaDoBe\uCadVendas.pas</Transaction>
+    <Transaction>2022/09/05 11:30:54.000.358,C:\Desenvolvimento\LojaDoBe\Unit3.dfm=C:\Desenvolvimento\LojaDoBe\uCadVendas.dfm</Transaction>
+    <Transaction>2022/09/05 12:02:18.000.713,=C:\Desenvolvimento\LojaDoBe\Unit1.pas</Transaction>
+    <Transaction>2022/09/05 12:02:37.000.547,C:\Desenvolvimento\LojaDoBe\Unit1.pas=C:\Desenvolvimento\LojaDoBe\funformatartexto.pas</Transaction>
+  </Transactions>
+</BorlandProject>

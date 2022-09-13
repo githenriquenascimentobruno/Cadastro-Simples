@@ -1,0 +1,20 @@
+program LojaDoBe;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'uPrincipal.pas' {frmPrincipal},
+  uCadClientes in 'uCadClientes.pas' {Form1},
+  uCadProdutos in 'uCadProdutos.pas' {frmCadProdutos},
+  uCadVendas in 'uCadVendas.pas' {frmCadVendas};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TfrmCadProdutos, frmCadProdutos);
+  Application.CreateForm(TfrmCadVendas, frmCadVendas);
+  Application.Run;
+end.
